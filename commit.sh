@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add _*
-git commit -m "+%s"
+git commit -m $(date +%s)
 git push
