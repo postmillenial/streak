@@ -8,5 +8,5 @@ import time
 
 timestamp = int(time.time())
 
-f = open("_%s"%str(timestamp), 'w')
+f = open("/var/streak/_%s"%str(timestamp), 'w')
 
