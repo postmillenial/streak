@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python3
 '''Huginn ok Muninn fljúga hverjan dag'''
 
 import time
